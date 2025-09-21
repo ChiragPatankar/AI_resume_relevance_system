@@ -1,4 +1,4 @@
-# 🎓 Innomatics Research Labs - Resume Relevance Check System
+# 🎓 AIResume Relevance Check System
 
 ## 📋 Overview
 
@@ -473,13 +473,6 @@ CMD ["streamlit", "run", "streamlit_app.py"]
 
 ---
 
-## 📜 License
-
-This system is proprietary software developed for **Innomatics Research Labs**. All rights reserved.
-
-**Copyright © 2024 Innomatics Research Labs**
-
----
 
 ## 🎉 Acknowledgments
 

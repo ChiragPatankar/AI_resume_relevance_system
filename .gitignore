@@ -71,6 +71,6 @@ tmp/
 # *.txt
 
 # API keys (security)
-**/config.py
 api_keys.txt
 secrets.txt
+config_private.py
